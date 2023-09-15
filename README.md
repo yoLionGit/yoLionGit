@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+    <h3>Hi, I'm Fernando 👋<h3>
+    <h3>Student</h3>
+</div>
+<h2> Sobre mim: </h2>
+<div>
+    <ul>
+        <li>
+            Nome: Fernando Yoshio Sugi
+        </li>
+        <li>
+            Idade: 26
+        </li>
+        <li>
+            Localização: Curitiba, Brazil
+        </li>
+        <li>
+            Faculdade: Análise e Desenvolvimento de Sistemas - PUC-PR (5º período)
+        </li>
 
-<!--
-**yoLionGit/yoLionGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning React.
+- 📫 How to reach me: yoshiogamer@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![yoLionGit](https://github-readme-stats.vercel.app/api/top-langs/?username=yoLionGit&hide=html&layout=compact&theme=tokyonight)](https://github.com/yoLionGit/)
