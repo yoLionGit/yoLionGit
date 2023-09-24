@@ -22,7 +22,6 @@
 - 📫 How to reach me: yoshiogamer@gmail.com
 
 <p>
-    
-[![yoLionGit](https://github-readme-stats.vercel.app/api/top-langs/?username=yoLionGit&hide=html&layout=compact&theme=tokyonight)](https://github.com/yoLionGit/)
+
 
 </p>
