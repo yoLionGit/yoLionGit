@@ -23,6 +23,6 @@
 
 <p>
     
-[![yoLionGit](https://github-readme-stats.vercel.app/api/top-langs/?username=yoLionGit&hide=html&layout=compact&theme=tokyonight)](https://github.com/yoLionGit/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yoLionGit=anuraghazra&langs_count=8)
 
 </p>
