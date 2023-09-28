@@ -1,8 +1,8 @@
 <div align="center">
-    <h3>Hi, I'm Fernando 👋<h3>
-    <h3>Student</h3>
+    <p>Hi, I'm Fernando 👋</p>
+    <p>Student</p>
 </div>
-<h2> Sobre mim: </h2>
+<p> Sobre mim: </p>
 <div>
     <ul>
         <li>
