@@ -15,7 +15,7 @@
             Localização: Curitiba, Brazil
         </li>
         <li>
-            Faculdade: Análise e Desenvolvimento de Sistemas - PUC-PR (5º período)
+            Formação: Análise e Desenvolvimento de Sistemas - PUC-PR
         </li>
 
 - 🌱 I’m currently learning React.
